@@ -139,3 +139,19 @@ live2d:
     height: 300
   mobile:
     show: false
+
+
+# 4 hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+

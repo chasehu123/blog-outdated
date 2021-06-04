@@ -12,5 +12,10 @@
 - [ ] 对着 Tingtalk 博客进行一定的优化
 - [ ] 参照一下黑锅小兵的[博客](https://blog.daliansky.net/Self-use-next-theme-custom-reference-format-table.html)优化一下
 - [ ] 写一个脚本自动 commit 等并加入对应的时间信息
-- [ ] 
-
+- [ ] 复制代码按钮
+- [ ] 评论系统
+- [ ] RSS 设置与对应的文件结构优化
+- [ ] 个人头像
+- [ ] 目录跳转
+- [ ] 回到开始箭头显示阅读百分比
+- [ ] 网页上端显示百分比

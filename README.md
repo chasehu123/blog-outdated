@@ -8,6 +8,8 @@
 
 [NexT官方文档](http://theme-next.iissnan.com/theme-settings.html#tags-page)
 
+[Hexo 博客 之 简要美化](https://www.jianshu.com/p/f068b8a36d84)
+
 ### 前置条件
 
 > 1. 已安装 Git Node.js (推荐使用 Node.js 版本管理软件 nvm)
@@ -174,7 +176,45 @@ creative_commons:
 > padding: 0
 > ```
 >
-> 
+
+##### 添加 LICENSE
+
+```shell
+# 修改主题配置文件, 搜索 creative_commons 
+```
+
+##### 将文章末尾的 # 号改为标签符号
+
+```shell
+# 修改模板 /themes/next/layout/_macro/post.swig，搜索 rel="tag">，将其后面第一对双括号内的内容连同第一对双括号删除换成<i class="fa fa-tag"></i>, 注意后面的一对双括号不要删除, 不然就没有标签名了...
+# 多加一个空格更加美观
+```
+
+##### 使用不蒜子进行网页访问量计数
+
+```html
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+<span>
+    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
+<br>
+<span>
+  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+</span>
+```
+
+##### 文章缩略
+
+添加`<!--more-->`就行
+
+
+
+
+
+
+
+
 
 ### 我的版本信息
 
