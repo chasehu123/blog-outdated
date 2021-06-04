@@ -11,4 +11,6 @@
 - [ ] [图片引用的优化](https://github.com/francoischalifour/medium-zoom)
 - [ ] 对着 Tingtalk 博客进行一定的优化
 - [ ] 参照一下黑锅小兵的[博客](https://blog.daliansky.net/Self-use-next-theme-custom-reference-format-table.html)优化一下
+- [ ] 写一个脚本自动 commit 等并加入对应的时间信息
 - [ ] 
+
