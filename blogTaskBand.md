@@ -1,0 +1,14 @@
+- [ ] 配色管理
+- [ ] 博客文件结构优化, 方便日后的...
+- [ ] 字体管理, 尤其是标题字体, 不要傻大黑粗
+- [ ] 左侧卡片式个人信息展示, 不要与其他挂件冲突
+- [ ] 优化代码的绚烂, 尤其是对 Python
+- [ ] 显示近期文章
+- [ ] 可以置顶文章
+- [ ] 针对搜索引擎的优化, 包括谷歌/百度/搜狗
+- [ ] CNAME 文件的保留
+- [ ] GitHub 作为图床
+- [ ] [图片引用的优化](https://github.com/francoischalifour/medium-zoom)
+- [ ] 对着 Tingtalk 博客进行一定的优化
+- [ ] 参照一下黑锅小兵的[博客](https://blog.daliansky.net/Self-use-next-theme-custom-reference-format-table.html)优化一下
+- [ ] 
