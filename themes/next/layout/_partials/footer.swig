@@ -1,4 +1,4 @@
-{%- if theme.footer.beian.enable %}
+<!--{%- if theme.footer.beian.enable %}
   <div class="beian">
     {{- next_url('http://www.beian.miit.gov.cn', theme.footer.beian.icp + ' ') }}
     {%- if theme.footer.beian.gongan_icon_url %}
@@ -58,4 +58,4 @@
   </div>
 {%- endif %}
 
-{{- next_inject('footer') }}
+{{- next_inject('footer') }}-->

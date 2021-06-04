@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Chase Hu'Blog 
-subtitle: ''
-description: ''
-keywords:
-author: Chase Hu
-language: en
-timezone: ''
+title: chasehu的部落阁 
+subtitle: '主要分享计算机相关的各种教程'
+description: '伪全栈程序员'
+keywords: 计算机 生活随笔 阅读笔记
+author: chasehu
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://chasehu123.github.io
+permalink: :year/:month/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -36,7 +36,7 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
-  field: site # Apply to the whole site
+  field: post # Apply to the whole site
   exclude: ''
 filename_case: 0
 render_drafts: false
@@ -105,3 +105,19 @@ deploy:
   type: git
   repository: https://github.com/chasehu123/chasehu123.github.io.git
   branch: master
+
+
+## CHASEHU
+# 1 local search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+# 2 symbols_count_time
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
