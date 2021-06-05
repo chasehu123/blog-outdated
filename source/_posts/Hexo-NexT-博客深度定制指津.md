@@ -4,9 +4,7 @@ date: 2021-06-04 13:37:30
 tags: Hexo
 categories: 博客优化
 ---
-
 ### 主要参考文章
-
 [这可能是迄今为止最全的hexo博客搭建教程](https://cloud.tencent.com/developer/article/1520557)
 
 [Hexo-Next 主题博客个性化配置超详细，超全面(两万字)](https://blog.csdn.net/as480133937/article/details/100138838)
@@ -22,8 +20,6 @@ categories: 博客优化
 > 3. 熟悉基本操作(包括但不限于 Git / GitHub)
 
 ### 基本操作
-
-<!--more-->
 
 ##### 重点操作
 

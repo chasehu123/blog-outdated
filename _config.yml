@@ -138,7 +138,7 @@ live2d:
     width: 150
     height: 300
   mobile:
-    show: false
+    show: true
 
 
 # 4 hexo-generator-feed

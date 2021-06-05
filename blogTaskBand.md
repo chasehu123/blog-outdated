@@ -19,3 +19,9 @@
 - [ ] 目录跳转
 - [ ] 回到开始箭头显示阅读百分比
 - [ ] 网页上端显示百分比
+- [ ] Sitemap
+- [ ] 音乐-Hey Jude and Yellow submarine
+- [ ] 赞赏弹图
+- [ ] 评论系统
+- [ ] 配色与代码xuanlan的更加明显
+- [ ] https://www.techgrow.cn/posts/755ff30d.html#%E5%90%AF%E7%94%A8%E6%96%87%E7%AB%A0%E6%89%93%E8%B5%8F
