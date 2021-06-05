@@ -57,5 +57,8 @@
     <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ theme.add_this_id }}" async="async"></script>
   </div>
 {%- endif %}
+{%- if theme.runtime.enable %}
+  {% include 'runtime.swig' %}
+{%- endif %}
 
 {{- next_inject('footer') }}

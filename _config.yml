@@ -154,4 +154,16 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
-
+# 5 Tag Cloud
+tag_cloud:
+    textFont: Trebuchet MS, Helvetica     # 字体
+    textColor: '#333'                     # 字体颜色
+    textHeight: 25                        # 字体大小
+    outlineColor: '#E2E1D1'
+    maxSpeed: 0.5                         # 旋转速度
+    pauseOnSelected: false                # 当选中对应标签时，是否停止转动
+  
+# 6 sitemap
+sitemap:
+   path: sitemap.xml
+   template: ./sitemap_template.xml
